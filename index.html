@@ -21,6 +21,14 @@
     </countdown-timer>
   </div>
   <script src="./TweenMax.js"></script>
+  <script src="countdown-timer-band.js"></script>
+  <script src="countdown-timer-intro.js"></script>
   <script src="./countdown.js"></script>
+  <script>
+    var countDown = new IOWA.CountdownTimer.Core(null, document.querySelector('countdown-timer'));
+    countDown.setUp(true);
+    countDown.attachEvents();
+    countDown.play(false);
+  </script>
 </body>
 </html>
