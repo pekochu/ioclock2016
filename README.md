@@ -1,6 +1,6 @@
-Google I/O 2016 Countdown Plugin
+A stilyzed Clock as Google I/O 2016 themed clock
 ===
+> Inspire from
+> From: [https://github.com/google/ioweb2016](https://events.google.com/io2016/)
 
-> From: [https://events.google.com/io2016/](https://events.google.com/io2016/)
-
-Demo Page: [http://helloyou2012.github.io/google-io-countdown/](http://helloyou2012.github.io/google-io-countdown/)
+A Fork of the original component [https://github.com/google/ioweb2016](https://github.com/google/ioweb2016)
