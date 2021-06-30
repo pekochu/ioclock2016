@@ -1,3 +1,3 @@
-A Live Wallpaper Clock inspired from I/O Clock from Google Keynote 2016
+Live Wallpaper inspired by the Google Keynote 2016 clock
 ===
 Still in development...
